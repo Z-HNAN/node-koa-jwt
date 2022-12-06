@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.7.5",
     "passport-jwt": "^4.0.0",
-    "qs": "^6.9.0"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
